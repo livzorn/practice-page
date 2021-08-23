@@ -1,5 +1,5 @@
 gifs = fetch('api.giphy.com/v1/gifs/trending', {
-    api_key: "UMSlO0tTl75tAQ8B7LoIIRDR9pq0J9Kq",
+    api_key: "0gmFixf7pCka8hZDZscaHSaw1w5Dc0nG",
     limit: 20
 })
   .then(response => response.json())
