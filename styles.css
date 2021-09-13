@@ -19,4 +19,9 @@ ul {
 .word {
     margin-top: 24px;
 }
+
+.list-container {
+    background-color: #F5E6E8;
+    border-radius: 24px;
+}
 /*# sourceMappingURL=styles.css.map */
