@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 
 body {
-    background-color: #F5F7DC;
+    background-color: #DD99BB;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
 }
@@ -9,6 +9,11 @@ body {
 #gif-container {
     width: 40vw;
     margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 24px;
 }
 
 /*# sourceMappingURL=styles.css.map */
